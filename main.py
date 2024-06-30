@@ -8,7 +8,7 @@ while True:
     # Turn on the LED
     led.on()
     # Wait for 2 seconds
-    time.sleep(1)
+    time.sleep(3)
     # Turn off the LED
     led.off()
     # Wait for 2 seconds
